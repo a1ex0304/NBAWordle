@@ -1,2 +1,2 @@
 # NBAWordle
-A Python Game where users would interact in a guessing software where they would have to guess the selected professional basketball team.
+A Python Game where users would interact in a guessing software where they would have to guess the selected professional basketball team. This game challenges the users with a variety of categories that test their sports knowledge, including the team's conference, the last time they won a championship, their year of founding, and their sports colours. This game offers clues based depending on the users answers with a variety of categories that test their sports knowledge. This project reflects my love for sports and my commitment to creating engaging, knowledge-based entertainment. Web Implementation is being worked on
